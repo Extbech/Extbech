@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Benjamin Chandler</h1>
-<h3 align="center">A Masters Student @UiS</h3>
+<h3 align="center">Data Science Masters Student at University of Stavanger</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=extbech&label=Profile%20views&color=0e75b6&style=flat" alt="extbech" /> </p>
 
